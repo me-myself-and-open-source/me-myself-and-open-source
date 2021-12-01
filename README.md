@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @me-myself-and-open-source
-- 👀 I’m interested in Web programming and DevOps (React, Vue, Laravel, Docker, Kubernetes, AWS...)
+- 👀 I’m interested in Web programming and DevOps (Laravel, Kubernetes, Docker, Ansible, AWS, Nginx || React, Vue, Angular...)
 - 🌱 I’m currently learning Web3, Blockchain and Swift (iOS)
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me memyselfandopensource.com@gmail.com
